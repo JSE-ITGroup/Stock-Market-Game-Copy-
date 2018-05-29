@@ -1,0 +1,57 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="StockMarketGamePriceUpload.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="WebRepoSQLConnection" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=10.100.100.58;Initial Catalog=WebRepository;User ID=peter.robinson;Password=P@$$w0rd1;</Value>
+    </Setting>
+    <Setting Name="QueryProcedure" Type="System.String" Scope="User">
+      <Value Profile="(Default)">dbo.usp_GetStockMarketGamePrices</Value>
+    </Setting>
+    <Setting Name="ProdTableName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">jseweb_stock_price</Value>
+    </Setting>
+    <Setting Name="FieldTerminator" Type="System.String" Scope="User">
+      <Value Profile="(Default)">,</Value>
+    </Setting>
+    <Setting Name="LineTerminator" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\r\n</Value>
+    </Setting>
+    <Setting Name="FileName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Data\Waiting\StockPrices.csv</Value>
+    </Setting>
+    <Setting Name="NumberOfLinesToSkip" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="JseWebsiteTesting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Server=127.0.0.1;Uid=probinson;Database=jsewebsite;Port=3333;Pwd=neB8Um5Jeg6oW9uB;</Value>
+    </Setting>
+    <Setting Name="JseWebsiteTraning" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Server=127.0.0.1;Uid=probinson;Database=jsewebsite;Port=3333;Pwd=neB8Um5Jeg6oW9uB;</Value>
+    </Setting>
+    <Setting Name="TestingTableName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">jseweb_stock_price</Value>
+    </Setting>
+    <Setting Name="TrainingTableName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">jseweb_stock_price</Value>
+    </Setting>
+    <Setting Name="Environments" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Production,Training,Testing</Value>
+    </Setting>
+    <Setting Name="JseWebSiteProd" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Server=127.0.0.1;Uid=probinson;Database=jsewebsite;Port=3333;Pwd=neB8Um5Jeg6oW9uB;</Value>
+    </Setting>
+    <Setting Name="ProductionSSHParams" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Host=Jamstockex.com;UserName=probinson;Port=22;Password=;PrivateKeyfilePath=C:\Keys\PrivateKey-JamstockexSite_OpenSSHFormat.ppk;LocalForwardedPort=3333;RemoteHost=192.168.170.251;RemotePort=3306;</Value>
+    </Setting>
+    <Setting Name="DestinationLookupQuery" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SELECT * FROM jseweb_stock_price WHERE  TradeDate IN (@Date)</Value>
+    </Setting>
+    <Setting Name="TraningSSHParams" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Host=testing.Jamstockex.com;UserName=probinson;Port=22;Password=;PrivateKeyfilePath=C:\Keys\PrivateKey-JamstockexSite_OpenSSHFormat.ppk;LocalForwardedPort=3333;RemoteHost=192.168.170.251;RemotePort=3306;</Value>
+    </Setting>
+    <Setting Name="TestingSSHParams" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Host=testing.jamstockex.com;UserName=probinson;Port=22;Password=;PrivateKeyfilePath=C:\Keys\PrivateKey-JamstockexSite_OpenSSHFormat.ppk;LocalForwardedPort=3333;RemoteHost=192.168.170.251;RemotePort=3306;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

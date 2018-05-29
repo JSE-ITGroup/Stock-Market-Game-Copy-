@@ -1,0 +1,14 @@
+10/27/2015 4:27:12 PM	Destination File retrieved: c:\data\StockPrices.csv
+10/27/2015 4:27:12 PM	Stored Procedure retrieved: dbo.usp_GetStockMarketGamePrices
+10/27/2015 4:27:14 PM	97 Record(s) retrieved from dataset 97
+10/27/2015 4:27:14 PM	The price file was succesfully created: c:\data\StockPrices.csv
+10/27/2015 4:27:17 PM	0 Record(s)  Uploaded
+10/27/2015 4:47:25 PM	Destination File retrieved: c:\data\StockPrices.csv
+10/27/2015 4:47:25 PM	Stored Procedure retrieved: dbo.usp_GetStockMarketGamePrices
+10/27/2015 4:47:26 PM	97 Record(s) retrieved from dataset 97
+10/27/2015 4:47:26 PM	The price file was succesfully created at: c:\data\StockPrices.csv
+10/27/2015 4:47:29 PM	0 Record(s)  Uploaded
+10/27/2015 5:00:29 PM	Destination File retrieved: c:\data\StockPrices.csv
+10/27/2015 5:00:29 PM	Stored Procedure retrieved: dbo.usp_GetStockMarketGamePrices
+10/27/2015 5:07:58 PM	Destination File retrieved: c:\data\StockPrices.csv
+10/27/2015 5:07:58 PM	Stored Procedure retrieved: dbo.usp_GetStockMarketGamePrices

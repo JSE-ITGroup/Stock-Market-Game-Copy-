@@ -1,0 +1,13 @@
+10/28/2015 10:29:59 AM	Destination File retrieved: c:\data\StockPrices.csv
+10/28/2015 10:30:00 AM	Stored Procedure retrieved: dbo.usp_GetStockMarketGamePrices
+10/28/2015 10:30:01 AM	No data receieved from database, Please verify that the stored procedure: dbo.usp_GetStockMarketGamePrices returns a value.
+10/28/2015 3:04:47 PM	Destination File retrieved: c:\data\StockPrices.csv
+10/28/2015 3:04:47 PM	Stored Procedure retrieved: dbo.usp_GetStockMarketGamePrices
+10/28/2015 3:04:49 PM	97 Record(s) retrieved from dataset 97
+10/28/2015 3:04:49 PM	The price file was succesfully created at: c:\data\StockPrices.csv
+10/28/2015 3:04:51 PM	StockMarketGamePriceUpload.Operations	Unable to connect to any of the specified MySQL hosts.
+10/28/2015 3:07:33 PM	Destination File retrieved: c:\data\StockPrices.csv
+10/28/2015 3:07:34 PM	Stored Procedure retrieved: dbo.usp_GetStockMarketGamePrices
+10/28/2015 3:07:35 PM	97 Record(s) retrieved from dataset 97
+10/28/2015 3:07:35 PM	The price file was succesfully created at: c:\data\StockPrices.csv
+10/28/2015 3:07:37 PM	StockMarketGamePriceUpload.Operations	Unable to connect to any of the specified MySQL hosts.

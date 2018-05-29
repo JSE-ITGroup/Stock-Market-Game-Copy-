@@ -1,0 +1,140 @@
+2/16/2016 12:17:18 PM	Destination File retrieved: C:\Data\Waiting\StockPrices.csv
+2/16/2016 12:17:18 PM	Stored Procedure retrieved: dbo.usp_GetStockMarketGamePrices
+2/16/2016 12:17:19 PM	No data receieved from database, Please verify that the stored procedure: dbo.usp_GetStockMarketGamePrices returns a value.
+2/16/2016 12:18:01 PM	Destination File retrieved: C:\Data\Waiting\StockPrices.csv
+2/16/2016 12:18:07 PM	Stored Procedure retrieved: dbo.usp_GetStockMarketGamePrices
+2/16/2016 12:19:01 PM	No data receieved from database, Please verify that the stored procedure: dbo.usp_GetStockMarketGamePrices returns a value.
+2/16/2016 12:19:17 PM	Destination File retrieved: C:\Data\Waiting\StockPrices.csv
+2/16/2016 12:19:32 PM	Stored Procedure retrieved: dbo.usp_GetStockMarketGamePrices
+2/16/2016 12:20:02 PM	103 Record(s) retrieved from dataset 103
+2/16/2016 12:20:08 PM	The price file was succesfully created at: C:\Data\Waiting\StockPrices.csv
+2/16/2016 12:22:02 PM	0 Record(s)  Uploaded
+2/16/2016 12:23:32 PM	Destination File retrieved: C:\Data\Waiting\StockPrices.csv
+2/16/2016 12:23:32 PM	Stored Procedure retrieved: dbo.usp_GetStockMarketGamePrices
+2/16/2016 12:23:33 PM	103 Record(s) retrieved from dataset 103
+2/16/2016 12:23:33 PM	The price file was succesfully created at: C:\Data\Waiting\StockPrices.csv
+2/16/2016 12:24:43 PM	Destination File retrieved: C:\Data\Waiting\StockPrices.csv
+2/16/2016 12:24:43 PM	Stored Procedure retrieved: dbo.usp_GetStockMarketGamePrices
+2/16/2016 12:24:44 PM	103 Record(s) retrieved from dataset 103
+2/16/2016 12:24:44 PM	The price file was succesfully created at: C:\Data\Waiting\StockPrices.csv
+2/16/2016 12:27:16 PM	Destination File retrieved: C:\Data\Waiting\StockPrices.csv
+2/16/2016 12:27:18 PM	Stored Procedure retrieved: dbo.usp_GetStockMarketGamePrices
+2/16/2016 12:27:23 PM	103 Record(s) retrieved from dataset 103
+2/16/2016 12:27:25 PM	The price file was succesfully created at: C:\Data\Waiting\StockPrices.csv
+2/16/2016 12:34:54 PM	Destination File retrieved: C:\Data\Waiting\StockPrices.csv
+2/16/2016 12:34:54 PM	Stored Procedure retrieved: dbo.usp_GetStockMarketGamePrices
+2/16/2016 12:34:55 PM	103 Record(s) retrieved from dataset 103
+2/16/2016 12:34:55 PM	The price file was succesfully created at: C:\Data\Waiting\StockPrices.csv
+2/16/2016 12:37:25 PM	Destination File retrieved: C:\Data\Waiting\StockPrices.csv
+2/16/2016 12:37:26 PM	Stored Procedure retrieved: dbo.usp_GetStockMarketGamePrices
+2/16/2016 12:37:27 PM	103 Record(s) retrieved from dataset 103
+2/16/2016 12:37:27 PM	The price file was succesfully created at: C:\Data\Waiting\StockPrices.csv
+2/16/2016 12:38:46 PM	Destination File retrieved: C:\Data\Waiting\StockPrices.csv
+2/16/2016 12:38:46 PM	Stored Procedure retrieved: dbo.usp_GetStockMarketGamePrices
+2/16/2016 12:38:47 PM	103 Record(s) retrieved from dataset 103
+2/16/2016 12:38:48 PM	The price file was succesfully created at: C:\Data\Waiting\StockPrices.csv
+2/16/2016 1:39:32 PM	Destination File retrieved: C:\Data\Waiting\StockPrices.csv
+2/16/2016 1:39:33 PM	Stored Procedure retrieved: dbo.usp_GetStockMarketGamePrices
+2/16/2016 1:39:34 PM	103 Record(s) retrieved from dataset 103
+2/16/2016 1:39:34 PM	The price file was succesfully created at: C:\Data\Waiting\StockPrices.csv
+2/16/2016 1:40:15 PM	Destination File retrieved: C:\Data\Waiting\StockPrices.csv
+2/16/2016 1:40:16 PM	Stored Procedure retrieved: dbo.usp_GetStockMarketGamePrices
+2/16/2016 1:40:16 PM	103 Record(s) retrieved from dataset 103
+2/16/2016 1:40:17 PM	The price file was succesfully created at: C:\Data\Waiting\StockPrices.csv
+2/16/2016 1:41:52 PM	Destination File retrieved: C:\Data\Waiting\StockPrices.csv
+2/16/2016 1:41:52 PM	Stored Procedure retrieved: dbo.usp_GetStockMarketGamePrices
+2/16/2016 1:41:53 PM	103 Record(s) retrieved from dataset 103
+2/16/2016 1:41:53 PM	The price file was succesfully created at: C:\Data\Waiting\StockPrices.csv
+2/16/2016 1:43:18 PM	Destination File retrieved: C:\Data\Waiting\StockPrices.csv
+2/16/2016 1:43:19 PM	Stored Procedure retrieved: dbo.usp_GetStockMarketGamePrices
+2/16/2016 1:43:20 PM	103 Record(s) retrieved from dataset 103
+2/16/2016 1:43:20 PM	The price file was succesfully created at: C:\Data\Waiting\StockPrices.csv
+2/16/2016 1:44:11 PM	Destination File retrieved: C:\Data\Waiting\StockPrices.csv
+2/16/2016 1:44:12 PM	Stored Procedure retrieved: dbo.usp_GetStockMarketGamePrices
+2/16/2016 1:44:13 PM	103 Record(s) retrieved from dataset 103
+2/16/2016 1:44:13 PM	The price file was succesfully created at: C:\Data\Waiting\StockPrices.csv
+2/16/2016 1:45:23 PM	Destination File retrieved: C:\Data\Waiting\StockPrices.csv
+2/16/2016 1:45:23 PM	Stored Procedure retrieved: dbo.usp_GetStockMarketGamePrices
+2/16/2016 1:45:24 PM	103 Record(s) retrieved from dataset 103
+2/16/2016 1:45:25 PM	The price file was succesfully created at: C:\Data\Waiting\StockPrices.csv
+2/16/2016 1:47:05 PM	0 Record(s)  Uploaded
+2/16/2016 1:47:17 PM	Destination File retrieved: C:\Data\Waiting\StockPrices.csv
+2/16/2016 1:47:18 PM	Stored Procedure retrieved: dbo.usp_GetStockMarketGamePrices
+2/16/2016 1:47:19 PM	103 Record(s) retrieved from dataset 103
+2/16/2016 1:47:19 PM	The price file was succesfully created at: C:\Data\Waiting\StockPrices.csv
+2/16/2016 1:47:25 PM	0 Record(s)  Uploaded
+2/16/2016 1:47:44 PM	Destination File retrieved: C:\Data\Waiting\StockPrices.csv
+2/16/2016 1:47:44 PM	Stored Procedure retrieved: dbo.usp_GetStockMarketGamePrices
+2/16/2016 1:47:47 PM	103 Record(s) retrieved from dataset 103
+2/16/2016 1:47:47 PM	The price file was succesfully created at: C:\Data\Waiting\StockPrices.csv
+2/16/2016 1:49:26 PM	Destination File retrieved: C:\Data\Waiting\StockPrices.csv
+2/16/2016 1:49:26 PM	Stored Procedure retrieved: dbo.usp_GetStockMarketGamePrices
+2/16/2016 1:49:27 PM	103 Record(s) retrieved from dataset 103
+2/16/2016 1:49:27 PM	The price file was succesfully created at: C:\Data\Waiting\StockPrices.csv
+2/16/2016 2:22:32 PM	Destination File retrieved: C:\Data\Waiting\StockPrices.csv
+2/16/2016 2:22:33 PM	Stored Procedure retrieved: dbo.usp_GetStockMarketGamePrices
+2/16/2016 2:22:34 PM	103 Record(s) retrieved from dataset 103
+2/16/2016 2:22:34 PM	The price file was succesfully created at: C:\Data\Waiting\StockPrices.csv
+2/16/2016 2:23:38 PM	Destination File retrieved: C:\Data\Waiting\StockPrices.csv
+2/16/2016 2:23:38 PM	Stored Procedure retrieved: dbo.usp_GetStockMarketGamePrices
+2/16/2016 2:23:39 PM	103 Record(s) retrieved from dataset 103
+2/16/2016 2:23:39 PM	The price file was succesfully created at: C:\Data\Waiting\StockPrices.csv
+2/16/2016 2:24:50 PM	Destination File retrieved: C:\Data\Waiting\StockPrices.csv
+2/16/2016 2:24:51 PM	Stored Procedure retrieved: dbo.usp_GetStockMarketGamePrices
+2/16/2016 2:24:52 PM	103 Record(s) retrieved from dataset 103
+2/16/2016 2:24:52 PM	The price file was succesfully created at: C:\Data\Waiting\StockPrices.csv
+2/16/2016 2:25:19 PM	StockMarketGamePriceUpload.ProgramSSH Client Connected: True
+2/16/2016 2:45:48 PM	Destination File retrieved: C:\Data\Waiting\StockPrices.csv
+2/16/2016 2:45:49 PM	Stored Procedure retrieved: dbo.usp_GetStockMarketGamePrices
+2/16/2016 2:45:49 PM	103 Record(s) retrieved from dataset 103
+2/16/2016 2:45:49 PM	The price file was succesfully created at: C:\Data\Waiting\StockPrices.csv
+2/16/2016 2:46:34 PM	StockMarketGamePriceUpload.ProgramSSH Client Connected: True
+2/16/2016 2:47:37 PM	Destination File retrieved: C:\Data\Waiting\StockPrices.csv
+2/16/2016 2:47:38 PM	Stored Procedure retrieved: dbo.usp_GetStockMarketGamePrices
+2/16/2016 2:47:38 PM	103 Record(s) retrieved from dataset 103
+2/16/2016 2:47:39 PM	The price file was succesfully created at: C:\Data\Waiting\StockPrices.csv
+2/16/2016 2:47:44 PM	StockMarketGamePriceUpload.ProgramSSH Client Connected: True
+2/16/2016 2:53:27 PM	Destination File retrieved: C:\Data\Waiting\StockPrices.csv
+2/16/2016 2:53:27 PM	Stored Procedure retrieved: dbo.usp_GetStockMarketGamePrices
+2/16/2016 2:53:28 PM	103 Record(s) retrieved from dataset 103
+2/16/2016 2:53:28 PM	The price file was succesfully created at: C:\Data\Waiting\StockPrices.csv
+2/16/2016 2:53:30 PM	StockMarketGamePriceUpload.ProgramSSH Client Connected: True
+2/16/2016 2:54:29 PM	Destination File retrieved: C:\Data\Waiting\StockPrices.csv
+2/16/2016 2:54:29 PM	Stored Procedure retrieved: dbo.usp_GetStockMarketGamePrices
+2/16/2016 2:54:30 PM	309 Record(s) retrieved from dataset 309
+2/16/2016 2:54:31 PM	The price file was succesfully created at: C:\Data\Waiting\StockPrices.csv
+2/16/2016 2:54:32 PM	StockMarketGamePriceUpload.ProgramSSH Client Connected: True
+2/16/2016 3:08:01 PM	Destination File retrieved: C:\Data\Waiting\StockPrices.csv
+2/16/2016 3:08:02 PM	Stored Procedure retrieved: dbo.usp_GetStockMarketGamePrices
+2/16/2016 3:08:02 PM	309 Record(s) retrieved from dataset 309
+2/16/2016 3:08:02 PM	The price file was succesfully created at: C:\Data\Waiting\StockPrices.csv
+2/16/2016 3:08:05 PM	StockMarketGamePriceUpload.ProgramSSH Client Connected: True
+2/16/2016 3:08:58 PM	Destination File retrieved: C:\Data\Waiting\StockPrices.csv
+2/16/2016 3:08:58 PM	Stored Procedure retrieved: dbo.usp_GetStockMarketGamePrices
+2/16/2016 3:08:59 PM	309 Record(s) retrieved from dataset 309
+2/16/2016 3:09:00 PM	The price file was succesfully created at: C:\Data\Waiting\StockPrices.csv
+2/16/2016 3:09:02 PM	StockMarketGamePriceUpload.ProgramSSH Client Connected: True
+2/16/2016 3:09:04 PM	0 Record(s)  Uploaded
+2/16/2016 3:09:51 PM	Destination File retrieved: C:\Data\Waiting\StockPrices.csv
+2/16/2016 3:09:51 PM	Stored Procedure retrieved: dbo.usp_GetStockMarketGamePrices
+2/16/2016 3:09:53 PM	309 Record(s) retrieved from dataset 309
+2/16/2016 3:09:53 PM	The price file was succesfully created at: C:\Data\Waiting\StockPrices.csv
+2/16/2016 3:09:55 PM	StockMarketGamePriceUpload.ProgramSSH Client Connected: True
+2/16/2016 3:09:57 PM	0 Record(s)  Uploaded
+2/16/2016 3:10:26 PM	Destination File retrieved: C:\Data\Waiting\StockPrices.csv
+2/16/2016 3:10:26 PM	Stored Procedure retrieved: dbo.usp_GetStockMarketGamePrices
+2/16/2016 3:10:27 PM	309 Record(s) retrieved from dataset 309
+2/16/2016 3:10:27 PM	The price file was succesfully created at: C:\Data\Waiting\StockPrices.csv
+2/16/2016 3:10:29 PM	StockMarketGamePriceUpload.ProgramSSH Client Connected: True
+2/16/2016 3:11:40 PM	Destination File retrieved: C:\Data\Waiting\StockPrices.csv
+2/16/2016 3:11:41 PM	Stored Procedure retrieved: dbo.usp_GetStockMarketGamePrices
+2/16/2016 3:11:42 PM	309 Record(s) retrieved from dataset 309
+2/16/2016 3:11:42 PM	The price file was succesfully created at: C:\Data\Waiting\StockPrices.csv
+2/16/2016 3:11:44 PM	StockMarketGamePriceUpload.ProgramSSH Client Connected: True
+2/16/2016 3:12:15 PM	StockMarketGamePriceUpload.ProgramIt seems like table was already updated. The Destination Table contains 309 Records that match the date '2016-02-12','2016-02-15','2016-02-16'. No Update will take place
+2/16/2016 3:16:23 PM	Destination File retrieved: C:\Data\Waiting\StockPrices.csv
+2/16/2016 3:16:24 PM	Stored Procedure retrieved: dbo.usp_GetStockMarketGamePrices
+2/16/2016 3:16:25 PM	309 Record(s) retrieved from dataset 309
+2/16/2016 3:16:25 PM	The price file was succesfully created at: C:\Data\Waiting\StockPrices.csv
+2/16/2016 3:16:27 PM	StockMarketGamePriceUpload.ProgramSSH Tunnel Established, Connected to : Jamstockex.com
+2/16/2016 3:16:28 PM	StockMarketGamePriceUpload.ProgramIt seems like table was already updated. The Destination Table contains 309 Records that match the date '2016-02-12','2016-02-15','2016-02-16'. No Update will take place

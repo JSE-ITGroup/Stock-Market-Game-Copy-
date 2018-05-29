@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: StockMarketGamePriceUpload, Configuration: Debug Any CPU ------
+1>C:\My Projects\StockMarketGamePriceUploadSolution\StockMarketGamePriceUpload\Operations.cs(69,13,69,19): warning CS0162: Unreachable code detected
+1>  StockMarketGamePriceUpload -> C:\My Projects\StockMarketGamePriceUploadSolution\StockMarketGamePriceUpload\bin\Debug\StockMarketGamePriceUpload.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

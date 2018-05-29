@@ -1,0 +1,33 @@
+2017-04-05 10:39:00 [7] INFO [StockMarketGamePriceUpload.Program] [(null)] - Destination File retrieved: C:\Data\Waiting\StockPrices.csv
+2017-04-05 10:39:04 [7] INFO [StockMarketGamePriceUpload.Program] [(null)] - Stored Procedure retrieved: dbo.usp_GetStockMarketGamePrices
+2017-04-05 10:48:42 [7] INFO [StockMarketGamePriceUpload.Program] [(null)] - Destination File retrieved: C:\Data\Waiting\StockPrices.csv
+2017-04-05 10:48:44 [7] INFO [StockMarketGamePriceUpload.Program] [(null)] - Stored Procedure retrieved: dbo.usp_GetStockMarketGamePrices
+2017-04-05 10:49:01 [7] INFO [StockMarketGamePriceUpload.Program] [(null)] - 174 Record(s) retrieved from dataset 174
+2017-04-05 10:49:10 [7] INFO [StockMarketGamePriceUpload.Program] [(null)] - The price file was succesfully created at: C:\Data\Waiting\StockPrices.csv
+2017-04-05 10:50:43 [7] ERROR [StockMarketGamePriceUpload.Operations] [(null)] - Unable to connect to any of the specified MySQL hosts.
+2017-04-05 11:00:52 [8] INFO [StockMarketGamePriceUpload.Program] [(null)] - Destination File retrieved: C:\Data\Waiting\StockPrices.csv
+2017-04-05 11:00:55 [8] INFO [StockMarketGamePriceUpload.Program] [(null)] - Stored Procedure retrieved: dbo.usp_GetStockMarketGamePrices
+2017-04-05 11:01:01 [8] INFO [StockMarketGamePriceUpload.Program] [(null)] - 174 Record(s) retrieved from dataset 174
+2017-04-05 11:01:02 [8] INFO [StockMarketGamePriceUpload.Program] [(null)] - The price file was succesfully created at: C:\Data\Waiting\StockPrices.csv
+2017-04-05 11:01:05 [8] INFO [StockMarketGamePriceUpload.SshWrapper] [(null)] - SSH Authentication Method :Publickey
+2017-04-05 11:01:05 [8] ERROR [StockMarketGamePriceUpload.SshWrapper] [(null)] - Unable to Locate Private in give path: C:\My Projects\StockMarketGamePriceUploadSolution\StockMarketGamePriceUpload\bin\Debug\PK\jseopensshformatkey.ppk
+2017-04-05 11:02:28 [9] INFO [StockMarketGamePriceUpload.Program] [(null)] - Destination File retrieved: C:\Data\Waiting\StockPrices.csv
+2017-04-05 11:02:29 [9] INFO [StockMarketGamePriceUpload.Program] [(null)] - Stored Procedure retrieved: dbo.usp_GetStockMarketGamePrices
+2017-04-05 11:02:29 [9] INFO [StockMarketGamePriceUpload.Program] [(null)] - 174 Record(s) retrieved from dataset 174
+2017-04-05 11:02:30 [9] INFO [StockMarketGamePriceUpload.Program] [(null)] - The price file was succesfully created at: C:\Data\Waiting\StockPrices.csv
+2017-04-05 11:02:58 [9] INFO [StockMarketGamePriceUpload.SshWrapper] [(null)] - SSH Authentication Method :Publickey
+2017-04-05 11:04:04 [9] INFO [StockMarketGamePriceUpload.SshWrapper] [(null)] - SSH Tunnel Established, Connected to :jamstockex.com
+2017-04-05 11:06:08 [9] INFO [StockMarketGamePriceUpload.Program] [(null)] - It seems like table was already updated. The Destination Table contains 176 Records that match the date '2017-04-03','2017-04-04'. No Update will take place in Evironment: '2017-04-03','2017-04-04'
+2017-04-05 11:07:23 [9] INFO [StockMarketGamePriceUpload.Operations] [(null)] - 1 Record(s)  Uploaded in Environment:  Training
+2017-04-05 11:08:14 [9] ERROR [StockMarketGamePriceUpload.Operations] [(null)] - Environment :Testing
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=testing.jamstockex.com;UserName=probinson;Port=22;Password=;PrivateKeyfilePath=' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at MySql.Data.MySqlClient.MySqlBulkLoader.Load()
+   at StockMarketGamePriceUpload.Operations.UpdateJseWebsite(String FileName, DataTable dt, String ConnectionString, String TableName, String Env)
